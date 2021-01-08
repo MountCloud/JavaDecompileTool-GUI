@@ -1,3 +1,6 @@
+# 效果图，IMAGE
+![image](https://github.com/MountCloud/JavaDecompileTool-GUI/blob/main/previeV1.0.png)
+
 # JAVA反编译工具
 ## 1：感谢Thank
 反编译核心使用的fernflower，感谢fernflower作者提供这么优秀的反编译工具。https://github.com/fesh0r/fernflower
@@ -40,5 +43,3 @@ Do not delete or modify ICSharpCode.SharpZipLib.dll
 
 Professionals can perform modification operations.
 
-## 效果图，IMAGE
-![image](https://github.com/MountCloud/JavaDecompileTool-GUI/blob/main/previeV1.0.png)
