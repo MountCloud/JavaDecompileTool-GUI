@@ -1,5 +1,13 @@
 # 效果图，IMAGE
-![image](https://github.com/MountCloud/JavaDecompileTool-GUI/blob/main/previeV1.0.png)
+![image](https://github.com/MountCloud/JavaDecompileTool-GUI/blob/main/previeV1.1.png)
+
+# 更新内容
+```
+V1.1 2021-04-13
+(1)修复日志时间12小时制问题。
+(2)规范jre目录，并使用jre11。
+(3)更新fernflower。
+```
 
 # 下载
 [https://github.com/MountCloud/JavaDecompileTool-GUI/releases](https://github.com/MountCloud/JavaDecompileTool-GUI/releases)
