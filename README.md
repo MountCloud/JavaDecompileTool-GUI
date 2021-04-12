@@ -46,7 +46,7 @@ The scope of application is for learning only, please do not use it for illegal 
 2: You can extract the WAR package as a JAR package (for example, as a reference to patch the WAR).
 
 ## 4: Do not delete
-Do not delete or modify the jre1.8.0_271 folder.
+Do not delete or modify the jre folder.
 
 Do not delete or modify fernflower.
 
